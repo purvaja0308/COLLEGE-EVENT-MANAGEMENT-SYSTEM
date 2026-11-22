@@ -1,0 +1,8 @@
+{
+  "name": "QuadDesk — College Event Management System",
+  "description": "Interactive College Event Management System with student registration, event creation, participation tracking, attendance management, reports, and live Java OOP, Inheritance, Swing, JDBC, and Collections architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
